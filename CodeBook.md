@@ -12,13 +12,13 @@ These signals were used to estimate variables of the feature vector for each pat
 
 **The set of variables that were estimated from these signals are:**
 
-mean: Mean value
-std: Standard deviation
+mean: Mean value  
+std: Standard deviation  
 
-**3 additional variables of the dataset are:**
-subject: An identifier of the subject who carried out the experiment.
-activity: Activity label, one of LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
-dataset: Test or training, to identify the original dataset
+**3 additional variables of the dataset are:**  
+subject: An identifier of the subject who carried out the experiment.  
+activity: Activity label, one of LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS  
+dataset: Test or training, to identify the original dataset  
 
 
 **The complete list of variables of each feature vector are the following:**
